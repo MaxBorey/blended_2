@@ -1,5 +1,0 @@
-PORT=3000
-MONGODB_USER=maxborey
-MONGODB_PASSWORD=iNAT58NoGIoqYHY2
-MONGODB_URL=cluster0.iouqelc.mongodb.net
-MONGODB_DB=products
